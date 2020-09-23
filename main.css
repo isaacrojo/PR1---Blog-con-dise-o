@@ -1,0 +1,70 @@
+body{
+    background-color: rgb(87, 165, 163);
+    /*padding: 10px;*/
+    /*margin: 125px; */
+    
+    font-family: Arial, Helvetica, sans-serif;    
+    cursor: url(cursor-jeep-wrangler.png), url(cursor-jeep.png), pointer; 
+
+}
+
+h1 {
+    font-size: xx-large;
+    font-style: inherit;
+}
+
+#logo-bar {
+    text-align: center;
+    background-color: white;
+
+}
+
+.nav-bar {
+    text-align: center;
+    background-color: rgb(166, 81, 95);
+    font-weight: bold;
+
+}
+
+.index {
+    margin-left: 75px;
+    margin-right: 75px;
+}
+
+.jeep-media {
+    text-align: center;
+}
+
+.historia {
+    margin-left: 75px;
+    margin-right: 75px;
+}
+
+.offroad {
+    margin-left: 75px;
+    margin-right: 75px;
+}
+
+.videos-offroad {
+    text-align: center;
+}
+.manuales{
+    margin-left: 75px;
+    margin-right: 75px;
+}
+
+.jeep-models {
+    margin-left: 75px;
+    margin-right: 75px;
+}
+
+#manuales-oficial {
+    margin-left: 75px;
+    margin-right: 75px;
+}
+.footer {
+    font: times;
+    font-size: smaller;
+    text-align: center;
+
+}
